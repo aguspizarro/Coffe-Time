@@ -1,9 +1,7 @@
 # Coffe-Time
-Página web de venta de café
 
 ### Hi there 👋
-
-I am a Argentine programmer, who seeks to share knowledge and learn from others working
+Página web de venta de café responsive, con interacciones varias
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📲 Get in touch
 
