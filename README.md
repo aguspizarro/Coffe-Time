@@ -1,7 +1,7 @@
 # Coffe-Time
 
 ### Hi there 👋
-Página web de venta de café responsive, con interacciones varias
+Esta es una Página web de venta de café responsive, con interacciones varias, esta fue desarrollada utilizando los lenguajes HTML, CSS y Javascript.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📲 Get in touch
 
